@@ -3,8 +3,6 @@
 ## 1. Introducción
 1.1. **Fundamentos**
    - [Concepto y propósito](./temario/01-introduccion/concepto-y-proposito.md)
-   - Historia y evolución
-   - Principios y prácticas fundamentales
 1.2. **Roles y Responsabilidades**
    - Rol del arquitecto de software
    - Interacción con desarrolladores, testers y stakeholders
