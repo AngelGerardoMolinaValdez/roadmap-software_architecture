@@ -4,7 +4,7 @@
 1.1. **Fundamentos**
    - [Concepto y propósito](./temario/01-introduccion/concepto-y-proposito.md)
 1.2. **Roles y Responsabilidades**
-   - Rol del arquitecto de software
+   - [Rol del arquitecto de software](./temario/01-introduccion/rol.md)
    - Interacción con desarrolladores, testers y stakeholders
    - Habilidades y competencias clave
 
