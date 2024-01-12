@@ -11,12 +11,7 @@
 
 ## 2. Principios de Diseño de Software
 2.1. **Principios Básicos de Diseño**
-   - SOLID
-      - Single Responsibility
-      - Open-Closed
-      - Liskov Substitution
-      - Interface Segregation
-      - Dependency Inversion
+   - [SOLID](./temario/02-principios_de_disenio/principios_basicos/SOLID.md)
    - DRY (Don't Repeat Yourself),
    - KISS (Keep It Simple, Stupid),
    - YAGNI (You Aren't Gonna Need It)
